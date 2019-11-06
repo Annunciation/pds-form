@@ -336,12 +336,6 @@ span.titlelbl{
   color: #000000;
   font: normal bold 14px/30px Verdana, Geneva, sans-serif;
 }
-p{
-  text-align: center;
-  max-width: 1000px;
-  left: 50px;
-  right: 50px;
-}
 p.clcopyrt{
   text-align: left;
   max-width: 1000px;
